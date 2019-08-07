@@ -1,0 +1,65 @@
+# Project Information
+site_name: PagerDuty Business Incident Response Documentation
+site_description: A collection of information about the PagerDuty business incident response process and industry best practices. This guide will teach you how to create a business response plan that works in tandem with your technical incident response plan.
+site_author: PagerDuty, Inc.
+site_favicon: 'assets/img/icon.png'
+site_url: https://business-response.pagerduty.com
+
+# Repository
+repo_url: https://github.com/pagerduty/business-response-docs
+
+# Copyright
+copyright: 'Copyright &copy; PagerDuty, Inc.'
+
+# Theme
+theme: 'material'
+theme_dir: 'theme'
+extra_css: ['assets/css/extra.css']
+extra_javascript: ['js/github_forks.js']
+extra:
+  favicon: 'assets/img/icon.png'
+  logo: 'assets/img/icon.png'
+  cover: 'assets/img/covers/default.png'
+  palette:
+    primary: 'green'
+    accent: 'blue grey'
+  author:
+    github: 'PagerDuty'
+    twitter: 'PagerDuty'
+
+# Dev URL
+dev_addr: '0.0.0.0:8080'
+
+# Contents
+pages:
+  - Home: 'index.md'
+  - Definitions: 'definitions.md'
+  - What is a Business Incident: 'what_is.md'
+  - Recognizing a Business Incident: 'declaring.md'
+  - Before an incident:
+    - Different Roles: 'before/roles.md'
+    - The Business SME: 'before/sme.md'
+    - Triggering a business incident: 'before/trigger.md'
+    - Call Etiquette: 'before/etiquette.md'
+  - During an incident:
+    - Do not panic: 'during/panic.md'
+    - Incident briefing: 'during/briefing.md'
+    - Emergency business operations: 'during/emergency_ops.md'
+    - Managing communications: 'during/communications.md'
+    - Resolving an incident: 'during/resolving.md'
+  - After an incident: 'after.md'
+
+# Analytics
+google_analytics: ['UA-8759953-1', 'auto']
+
+# Extensions
+markdown_extensions:
+  - toc:
+      permalink: '#'
+  - sane_lists:
+  - admonition:
+  - meta:
+  - pymdownx.details:
+  - pymdownx.extra:
+  - pymdownx.mark:
+  - pymdownx.tilde:
