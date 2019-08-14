@@ -37,9 +37,9 @@ The process to follow during a business incident.
 
 ### After an incident:
 
-- [Preliminary Analysis](after/analysis.md) - How to answer questions, until a postmortem is published
-- [Customer Meetings](after/meetings.md) - Proactive opportunities to regain customer trust
-- [Postmortems](after/postmortems.md) - How to participate in the postmortem process
+- [Preliminary Analysis](after.md#preliminary-analysis) - How to answer questions, until a postmortem is published
+- [Customer Meetings](after.md#strategic-customer-meetings) - Proactive opportunities to regain customer trust
+- [Postmortems](after.md#postmortems) - How to participate in the postmortem process
 
 ## License
 
