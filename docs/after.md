@@ -1,7 +1,6 @@
 ---
 cover:
 description: Steps to take after a severe technical incident has been resolved
-
 ---
 ![After](../assets/img/headers/Business_After.png)
 
@@ -40,4 +39,3 @@ If your organization adopts this as a response strategy, you should make this of
 The Technical SLT and Customer Liaison during the incident should participate in the technical postmortem to provide details around customer communications during the incident.
 
 The entire Comms Incident team should also use the Post-mortem Process to review the incident and determine ways to improve the process.
-

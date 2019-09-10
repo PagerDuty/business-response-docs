@@ -1,7 +1,6 @@
 ---
 cover:
 description: Steps to enter emergency operations mode
-
 ---
 ![Emergency](../assets/img/headers/Business_Emergency.png)
 
@@ -26,4 +25,3 @@ After an incident briefing has concluded, the next order of business should be t
 1. Monitor all external social channels for user comments, posting replies if necessary.
 1. Monitor internal communication channels for questions & concerns, replying if necessary.
 1. Notify the Business Lead of any noteworthy activity when monitoring social comments (e.g. major changes in overall sentiment, critical questions, or other emergencies).
-

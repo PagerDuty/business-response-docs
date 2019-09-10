@@ -1,7 +1,6 @@
 ---
 cover:
 description: The precise mechanics for how to trigger a business incident from a severe technical incident
-
 ---
 ![Triggering](../assets/img/headers/Business_Triggering.png)
 
@@ -12,4 +11,3 @@ The Technical SLT, formerly in the role of a business SME on the technical call,
 The Customer Liaison on the technical incident call should page a backup responder that can fill their role. Once the backup Customer Liaison is present on the technical call, the primary liaison should handoff their responsibilities to the backup. The formerly-primary liaison will then leave the technical incident call to join the new business incident call. This handoff is designed to ensure the least possible time for both groups to have someone in each role that is up to speed on the current situation.
 
 Once a [Business Lead](roles.md#business-lead) is also on the business incident call, resolution of the new business incident can begin.
-

@@ -1,7 +1,6 @@
 ---
 cover:
 description: Basic definitions for a common understanding in this document
-
 ---
 ![Briefing](../assets/img/headers/Business_Briefing.png)
 
@@ -24,4 +23,3 @@ Once the Business Lead, Customer Liaison, and Technical SLT are present on the b
 1. When the Technical SLT confirms that they have the information they need, you can release the Customer Liaison to rejoin the technical incident call in listen-only mode to keep track of any new developments.
 1. Instruct the Technical SLT to post the documented details of the incident briefing into the business incident chat channel.
 1. Instruct the Technical SLT to create a shared document where proposed outbound communications will be staged.
-
