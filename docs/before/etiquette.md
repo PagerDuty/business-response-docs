@@ -1,7 +1,6 @@
 ---
 cover:
 description: Understanding incident call etiquette before an incident occurs
-
 ---
 ![Etiquette](../assets/img/headers/Business_Etiquette.png)
 
@@ -50,4 +49,3 @@ Ask on the call if a business lead is present. If you have no response, type `!b
 #### I can join the call or Slack, but not both, what should I do?
 
 You're welcome to join only one of the channels, however you should not actively participate in the incident response if so, as it causes disjointed communication. Liaise with someone who is both in Slack and on the call to provide any input you may have so that they can raise it.
-

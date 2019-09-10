@@ -1,7 +1,6 @@
 ---
 cover:
 description: Precise steps for managing proactive communications
-
 ---
 ![Communications](../assets/img/headers/Business_Communications.png)
 
@@ -67,7 +66,7 @@ It is your job to set the pace for which audience is being addressed at which in
 Keep track of which responders have completed their review. Ensure everything is happening in a timely manner. Seek any **strong objections** from reviewers and approvers to help drive the process to completion.
 
 It is also your job to manage competing demands and keep the business incident resolution process moving. You must direct the show.
- 
+
 Ensure that all responders are reviewing drafts in a timely manner.
 
 1. Instruct the Technical SLT to begin drafting the audience message for this phase of the incident. Ask the Technical SLT to provide a time estimate for completion and check back in once that time has elapsed.
@@ -97,7 +96,7 @@ Ensure that all responders are reviewing drafts in a timely manner.
 
 1. Review drafts for your area of concern. In other words, it’s okay to make spelling and grammatical edits if necessary. However, your main focus is to ensure the messaging guidelines for the portion of the business are represented.
 1. Make wording suggestions to the Technical SLT, but ultimately it is their tone and voice that takes precedence.
-1. Use **strong objections** for non-negotiable wording choices that must be adhered to for policy compliance. 
+1. Use **strong objections** for non-negotiable wording choices that must be adhered to for policy compliance.
 
 ## Steps for the Customer Liaison
 
@@ -105,4 +104,3 @@ Ensure that all responders are reviewing drafts in a timely manner.
 1. When a draft is approved and ready for distribution, rejoin the technical inciden call and inform the Incident Commander that a new message is ready for distribution at the earliest opportunity.
 1. Wait for the Incident Commander to review the message and approve it for distribution.
 1. Inform the Business Lead that the draft has approval for distribution.
-

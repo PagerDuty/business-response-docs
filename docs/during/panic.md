@@ -1,7 +1,6 @@
 ---
 cover:
 description: During an incident, the most important thing to do is not panic
-
 ---
 ![Dont Panic](../assets/img/headers/Business_Panic.png)
 
@@ -15,4 +14,3 @@ Once a business incident has been triggered, responders should acknowledge that 
 - Follow along with the call/chat, add any comments you feel are appropriate, but keep the discussion relevant to the problem at hand.
 - If you are not an SME, try to filter any discussion through the primary SME for that role. Too many people discussing at once become overwhelming, so we should try to maintain a hierarchical structure to the call if possible.
 - Follow instructions from the business lead.
-

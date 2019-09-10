@@ -1,7 +1,6 @@
 ---
 cover:
 description: How to resolve a business incident
-
 ---
 ![Resolving](../assets/img/headers/Business_Resolving.png)
 
@@ -14,4 +13,3 @@ After the resolution message has been approved and distributed, the Business Lea
 1. Instruct the Technical SLT to prepare a Preliminary Analysis that should be ready within 24 hours.
 1. Ensure all actions and owners have been documented via chat. Transcribe any additional actions/notes as necessary.
 1. End the Business Incident call and resolve the business incident.
-

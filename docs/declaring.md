@@ -1,7 +1,6 @@
 ---
 cover:
 description: Criteria for setting business incident thresholds and an overview of declaring a business incident
-
 ---
 ![Declaring](../assets/img/headers/Business_Declaring.png)
 
@@ -29,4 +28,3 @@ While criteria exists for defining severe technical incident thresholds, we do n
 When severe technical incident thresholds have been met--or even appear likely--a designated business stakeholder (typically, a member of the [senior leadership team in a technical role](before/roles.md#technical-slt)) should be paged to join the technical incident call. The business stakeholder’s role on the call is to act as a business SME and to assess whether a broader company response is warranted.
 
 If a wider response is warranted, a recommendation is made to the Incident Commander to escalate the incident to severe technical incident status. That escalation is what starts a new business incident.
-

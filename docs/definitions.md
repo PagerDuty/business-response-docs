@@ -1,7 +1,6 @@
 ---
 cover:
 description: Basic definitions for a common understanding in this document
-
 ---
 ![Definitions](../assets/img/headers/Business_Definitions.png)
 
@@ -19,4 +18,3 @@ This shorthand term is meant to quickly differentiate responders on the technica
 
 ## Technical Responders
 In this document, a distinction is made between technical and non-technical responders for more easily understood context. But the reality is that plenty of technical abilities are still necessary for business responders to be effective in their roles. For the sake of clarity, this guide uses “technical responder” to mean any responder on the technical incident bridge who is not a “business responder.”
-
