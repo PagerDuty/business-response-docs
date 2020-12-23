@@ -2,7 +2,7 @@
 cover:
 description: The precise mechanics for how to trigger a business incident from a severe technical incident
 ---
-![Triggering](../assets/img/headers/Business_Triggering.png)
+![Triggering](../assets/img/headers/BIR-Triggering.png)
 
 When an ongoing incident is escalated to severe technical incident status, a new business incident is triggered. Business incident response operates as a subgroup of the technical incident. Therefore, two key roles must shift into the subgroup and away from the technical incident group.
 

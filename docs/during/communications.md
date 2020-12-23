@@ -2,7 +2,7 @@
 cover:
 description: Precise steps for managing proactive communications
 ---
-![Communications](../assets/img/headers/Business_Communications.png)
+![Communications](../assets/img/headers/BIR-ManagingComms.png)
 
 Once business operations are in emergency mode, the business incident group should begin generating outbound communications that are reviewed and approved by the messaging group. This is a balance between speed and caution. In practice, this managing communications phase starts very soon after the business operations phase if **responders are working in parallel.**
 

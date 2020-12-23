@@ -2,7 +2,7 @@
 cover:
 description: Basic definitions for a common understanding in this document
 ---
-![Definitions](../assets/img/headers/Business_Definitions.png)
+![Definitions](../assets/img/headers/BIR-Definitions.png)
 
 ## Severe technical incident
 A severe technical incident is a critical issue causing continued unacceptable business impact, requiring larger company engagement. These types of incidents are typically ones that put the business at serious risk, with a high chance of eroding customer trust, and where there is low confidence of reaching resolution in a timely manner. These incidents are technical disruptions that typically occur in high-visibility areas that create a very significant customer impact. Severe technical incidents should be a very rare occurrence in most organizations. For more details on severe incident criteria, see [recommendations for declaring a severe technical incident](declaring.md).
