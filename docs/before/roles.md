@@ -2,7 +2,7 @@
 cover:
 description: The different roles ofbusiness incident response
 ---
-![Roles](../assets/img/headers/Business_Roles.png)
+![Roles](../assets/img/headers/BIR-Roles.png)
 
 Business responders are paged as appropriate when needed. These roles are ordered by functional groups for reference.
 

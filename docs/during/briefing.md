@@ -2,7 +2,7 @@
 cover:
 description: Basic definitions for a common understanding in this document
 ---
-![Briefing](../assets/img/headers/Business_Briefing.png)
+![Briefing](../assets/img/headers/BIR-IncidentBriefing.png)
 
 Once the Business Lead, Customer Liaison, and Technical SLT are present on the business incident call, a technical briefing can begin.
 

@@ -1,4 +1,4 @@
-![PagerDuty](../assets/img/headers/Business_Home.png)
+![PagerDuty](../assets/img/headers/BIR-TitleHeader.png)
 
 When business service disruptions are highly visible over prolonged periods, customer backlash can ruin your company’s reputation. Mitigating material brand damage requires your company to have an incident response plan that also addresses the needs of the business during those critical disruptions.
 

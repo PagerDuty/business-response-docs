@@ -2,7 +2,7 @@
 cover:
 description: How to resolve a business incident
 ---
-![Resolving](../assets/img/headers/Business_Resolving.png)
+![Resolving](../assets/img/headers/BIR-Resolving.png)
 
 A business incident resolves after its parent severe technical incident has been resolved. Go through the Message Creation Loop to create a resolution message.
 

@@ -2,7 +2,7 @@
 cover:
 description: Steps to take after a severe technical incident has been resolved
 ---
-![After](../assets/img/headers/Business_After.png)
+![After](../assets/img/headers/BIR-AfterAnIncident.png)
 
 Although the severe technical incident and the business incident have both been resolved, there are still many questions to answer and follow up actions to take. The business incident response team should continue to work together to contribute to postmortem processes, send out proactive internal communications, and begin the work of gaining back eroded customer trust.
 

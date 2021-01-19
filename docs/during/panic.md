@@ -2,7 +2,7 @@
 cover:
 description: During an incident, the most important thing to do is not panic
 ---
-![Dont Panic](../assets/img/headers/Business_Panic.png)
+![Dont Panic](../assets/img/headers/BIR-DoNotPanic.png)
 
 Once a business incident has been triggered, responders should acknowledge that they have received a page and do the following.
 
