@@ -2,7 +2,7 @@
 cover:
 description: Criteria for setting business incident thresholds and an overview of declaring a business incident
 ---
-![Declaring](../assets/img/headers/BIR-Recognizing.png)
+![Declaring](/assets/images/headers/BIR-Recognizing.png)
 
 Technical issues do not begin as severe technical incidents. Deciding when they escalate into severe technical incident status has many considerations. Regardless of what you decide to use as the exact criteria for defining a severe technical incident, we recommend that category be set as the highest possible [severity level](https://response.pagerduty.com/before/severity_levels/) for any incident your organization can experience.
 

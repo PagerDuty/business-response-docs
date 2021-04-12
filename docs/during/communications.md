@@ -2,7 +2,7 @@
 cover:
 description: Precise steps for managing proactive communications
 ---
-![Communications](../assets/img/headers/BIR-ManagingComms.png)
+![Communications](/assets/images/headers/BIR-ManagingComms.png)
 
 Once business operations are in emergency mode, the business incident group should begin generating outbound communications that are reviewed and approved by the messaging group. This is a balance between speed and caution. In practice, this managing communications phase starts very soon after the business operations phase if **responders are working in parallel.**
 
@@ -26,17 +26,17 @@ Business incidents may begin during a technical incident’s Investigation or Id
 ## Audiences
 During each phase of a business incident, this group should generate messages aimed at different audiences using different mediums. The exact choice(s) will vary between organizations, but the basic considerations are:
 
-- **Internal Stakeholders** - These are employees, board members, or other key members of your organization who may be affected by the severe technical incident in progress. When determining a recipient list for sending update, the risk is that this important notifications can be treated as noise if your blast radius is too large. Recipients who cannot take action as a result of this notification, or whose job functions are largely unaffected by the incident, will disregard.  
-  &nbsp;  
-  As a rule of thumb, anyone in a customer facing role or anyone likely to be contacted by any external persons with questions should be updated by this group. Refer to our [stakeholder communications](https://stakeholders.pagerduty.com) guide for more in-depth guidelines.  
-  &nbsp;  
+- **Internal Stakeholders** - These are employees, board members, or other key members of your organization who may be affected by the severe technical incident in progress. When determining a recipient list for sending update, the risk is that this important notifications can be treated as noise if your blast radius is too large. Recipients who cannot take action as a result of this notification, or whose job functions are largely unaffected by the incident, will disregard.
+  &nbsp;
+  As a rule of thumb, anyone in a customer facing role or anyone likely to be contacted by any external persons with questions should be updated by this group. Refer to our [stakeholder communications](https://stakeholders.pagerduty.com) guide for more in-depth guidelines.
+  &nbsp;
 
-- **Strategic Customers** - Customers that are most critical to the health of your business should be specifically addressed during a severe technical incident. The goal of contacting strategic customers is to give them an opportunity to open a two-way conversation with you, if needed. Creating personalized one-to-one communication (e.g. via email) proactively can help mitigate some of the trust erosion that can occur during severe technical incidents.  
-  &nbsp;  
-  Many strategic customers will want to engage during and after these incidents, so be mindful that you have the capacity to engage directly when determining your recipient list. The worst thing to do here is offer to speak to customers directly about their concerns and then be unable to get back to them for weeks.  
-  &nbsp;  
+- **Strategic Customers** - Customers that are most critical to the health of your business should be specifically addressed during a severe technical incident. The goal of contacting strategic customers is to give them an opportunity to open a two-way conversation with you, if needed. Creating personalized one-to-one communication (e.g. via email) proactively can help mitigate some of the trust erosion that can occur during severe technical incidents.
+  &nbsp;
+  Many strategic customers will want to engage during and after these incidents, so be mindful that you have the capacity to engage directly when determining your recipient list. The worst thing to do here is offer to speak to customers directly about their concerns and then be unable to get back to them for weeks.
+  &nbsp;
 
-- **All Customers** - Every customer is important, even if you do not have the capacity to address each customer in a one-to-one manner. The goal of general customer communications is to proactively reach out to customers and address their concerns in a one-to-many fashion. These types of communications are typically already happening in a major incident (e.g. Twitter status updates). This group should determine if additional communications (e.g. a follow up email) are warranted under the circumstances.  
+- **All Customers** - Every customer is important, even if you do not have the capacity to address each customer in a one-to-one manner. The goal of general customer communications is to proactively reach out to customers and address their concerns in a one-to-many fashion. These types of communications are typically already happening in a major incident (e.g. Twitter status updates). This group should determine if additional communications (e.g. a follow up email) are warranted under the circumstances.
 
 !!! tip "How many messages to send"
     At a minimum, the business incident group should generate messages to distribute to each audience for each phase of an incident. For example, if a business incident was triggered during the Investigation phase of a severe technical incident, the following messages would be created:

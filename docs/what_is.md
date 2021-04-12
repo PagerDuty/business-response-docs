@@ -2,7 +2,7 @@
 cover:
 description: The basics of Business Incidents. What business incidents are and why they matter.
 ---
-![What_is](../assets/img/headers/BIR-WhatIs.png)
+![What_is](/assets/images/headers/BIR-WhatIs.png)
 
 A business has many different types of incidents to manage. A Technical Business Incident occurs when there is an ongoing technical incident in progress and it creates enough impact to require a larger response across several business units in order to mitigate the damage. The escalation of a technical incident into a severe technical incident is what triggers a new business incident.
 

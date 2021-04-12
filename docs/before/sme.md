@@ -2,7 +2,7 @@
 cover:
 description: More details about how to use a business subject matter expert to initiate a business incident
 ---
-![Business SME](../assets/img/headers/BIR-BusinessSME.png)
+![Business SME](/assets/images/headers/BIR-BusinessSME.png)
 
 The [Technical SLT](../before/roles.md#technical-slt) is the first business response role to get involved during an ongoing technical incident. As a member of the Senior Leadership Team, they join a technical incident call as a subject matter expert representing business needs. This role has an on-call rotation and they can be paged to join a technical incident at any time.
 
