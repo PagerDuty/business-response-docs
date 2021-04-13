@@ -2,7 +2,7 @@
 cover:
 description: Steps to enter emergency operations mode
 ---
-![Emergency](../assets/img/headers/BIR-EmergencyBizOps.png)
+![Emergency](/assets/images/headers/BIR-EmergencyBizOps.png)
 
 After an incident briefing has concluded, the next order of business should be to mitigate any additional damage by switching normal business operations into emergency mode. At a minimum, you should halt all outbound marketing activities and start tuning into broader communication channels. One of the worst times to draw new attention to your company or its products are when they aren’t fully functional. External customers and internal stakeholders will also notice the prolonged impact and you should be ready to respond to their concerns.
 

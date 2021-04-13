@@ -1,8 +1,8 @@
 ---
-cover: 
+cover:
 description: Understanding incident call etiquette before an incident occurs
 ---
-![Etiquette](../assets/img/headers/BIR-Etiquette.png)
+![Etiquette](/assets/images/headers/BIR-Etiquette.png)
 
 You've just joined a business incident call, and you've never been on one before. You have no idea what's going on, or what you're supposed to be doing. This page will help you through your first time on a business incident call, and will provide a reference for future calls you may be a part of.
 
