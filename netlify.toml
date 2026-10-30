@@ -1,11 +1,116 @@
+
+# netlify.toml — business-response.pagerduty.com
+# This site now only redirects to docs.pagerduty.com/ops-guides/business-incident-response.
+
+# ---------------------------------------------------------------------------
+# Headers
+# ---------------------------------------------------------------------------
+# These are attached to the 301 responses too. Referrer-Policy matters here:
+# a redirect response's Referrer-Policy is applied to the follow-up request,
+# so "same-origin" would strip the referrer when the browser goes on to
+# docs.pagerduty.com (cross-origin), and docs analytics would lose the
+# original traffic source (Google, blogs, Slack, etc.).
 [[headers]]
   for = "/*"
   [headers.values]
-    Strict-Transport-Security = "max-age=31536000 ; includeSubDomains"
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains"
     X-Content-Type-Options = "nosniff"
     X-Frame-Options = "DENY"
-    X-XSS-Protection = "1; mode=block"
-    Referrer-Policy = "same-origin"
-    Feature-Policy = "accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none'"
-    Content-Security-Policy-Report-Only = "default-src 'none'; script-src 'self' ssl.google-analytics.com www.google-analytics.com 'sha256-AzwHtScSzFOoXIoLRz4+vK2rDADGdNC3AXQG5FjKK68=' 'sha256-8IZh+gkrYCTCvcu/zawPN9Vj4RLghgOT4F5rTZXvdkQ='; object-src 'self'; style-src 'self'; img-src 'self' data: ssl.google-analytics.com www.google-analytics.com; media-src 'none'; frame-src www.youtube.com www.youtube-nocookie.com; font-src 'self'; connect-src 'self' ssl.google-analytics.com www.google-analytics.com; base-uri 'none'; form-action 'self'; frame-ancestors 'none'"
+    Referrer-Policy = "strict-origin-when-cross-origin"
 
+# ---------------------------------------------------------------------------
+# Redirects — first match wins. Keep the catch-all LAST.
+# force = true is required because the old MkDocs build output (if still
+# deployed) would otherwise shadow these rules.
+# ---------------------------------------------------------------------------
+[[redirects]]
+  from = "/"
+  to = "https://docs.pagerduty.com/ops-guides/business-incident-response"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/definitions/*"
+  to = "https://docs.pagerduty.com/ops-guides/business-incident-response/definitions"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/what_is/*"
+  to = "https://docs.pagerduty.com/ops-guides/business-incident-response/what-is-a-business-incident"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/declaring/*"
+  to = "https://docs.pagerduty.com/ops-guides/business-incident-response/recognizing-a-business-incident"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/before/roles/*"
+  to = "https://docs.pagerduty.com/ops-guides/business-incident-response/different-roles"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/before/sme/*"
+  to = "https://docs.pagerduty.com/ops-guides/business-incident-response/business-sme"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/before/trigger/*"
+  to = "https://docs.pagerduty.com/ops-guides/business-incident-response/triggering"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/before/etiquette/*"
+  to = "https://docs.pagerduty.com/ops-guides/business-incident-response/call-etiquette"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/during/panic/*"
+  to = "https://docs.pagerduty.com/ops-guides/business-incident-response/do-not-panic"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/during/briefing/*"
+  to = "https://docs.pagerduty.com/ops-guides/business-incident-response/incident-briefing"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/during/emergency_ops/*"
+  to = "https://docs.pagerduty.com/ops-guides/business-incident-response/emergency-operations"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/during/communications/*"
+  to = "https://docs.pagerduty.com/ops-guides/business-incident-response/managing-communications"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/during/resolving/*"
+  to = "https://docs.pagerduty.com/ops-guides/business-incident-response/resolving"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/after/*"
+  to = "https://docs.pagerduty.com/ops-guides/business-incident-response/after-an-incident"
+  status = 301
+  force = true
+
+# Catch-all: assets, sitemap.xml, search index, /before/, /during/,
+# unknown/mistyped URLs
+[[redirects]]
+  from = "/*"
+  to = "https://docs.pagerduty.com/ops-guides/business-incident-response"
+  status = 301
+  force = true
